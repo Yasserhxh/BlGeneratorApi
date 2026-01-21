@@ -8,6 +8,8 @@
 
   <ItemGroup>
     <PackageReference Include="ClosedXML" Version="0.105.0" />
+    <PackageReference Include="Microsoft.Extensions.Hosting.WindowsServices" Version="8.0.0" />
+    <PackageReference Include="Spire.PDF" Version="12.1.0" />
   </ItemGroup>
 
 </Project>
