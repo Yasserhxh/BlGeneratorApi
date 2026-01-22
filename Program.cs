@@ -154,6 +154,7 @@ public sealed class TransportJson
     public string? Transporteur { get; set; }
     public string? Matricule { get; set; }
     public string? Chauffeur { get; set; }
+    public string? Cin { get; set; }
 }
 
 public sealed class PesageJson
